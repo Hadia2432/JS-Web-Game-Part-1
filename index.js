@@ -1,5 +1,3 @@
-
-
 function tile(url, left, bottom, width, height){
     for(let h = 0; h < height; h++){
         for(let w = 0; w < width; w++){
